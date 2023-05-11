@@ -9,6 +9,9 @@ p {
  font-family: 'Wix Madefor Display', sans-serif;
 }
 .title {
+    font-family: 'Foldit', sans-serif;
+}
+.topnav .title {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 25px;
     color:#fa991c;

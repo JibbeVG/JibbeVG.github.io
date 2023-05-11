@@ -10,6 +10,9 @@ p {
 }
 .title {
     font-family: 'Foldit', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    margin:auto;
 }
 .topnav .title {
     font-family: 'IBM Plex Mono', monospace;

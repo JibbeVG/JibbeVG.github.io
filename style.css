@@ -1,0 +1,31 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+h1 {
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+p {
+ font-family: 'Wix Madefor Display', sans-serif;
+}
+.title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 25px;
+    color:#fa991c;
+    margin: auto;
+    float: left;
+}
+.topnav {
+    background-color: #1c768f;
+    overflow: hidden;
+   padding: 5px;
+    
+  }
+@media only screen and (max-width: 640px) {
+    .title {
+        font-size: 15vw;
+        background-color:;
+        float: left;
+    }
+
+}
